@@ -1,2 +1,2 @@
-# UTT
-Ultimate Tic Tac Toe bot. 
+# UT3
+Ultimate Tic Tac Toe Ai Bot 
